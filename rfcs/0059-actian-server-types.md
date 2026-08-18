@@ -2,7 +2,7 @@
 
 Champion: Jean-Georges Perrin
 
-Authors: Jean-Georges Perrin, Stephan Baumann
+Authors: Jean-Georges Perrin, Stephan Baumann, Andreas Renner, Ulf Schenk, Nils Behncke
 
 GitHub issue: https://github.com/bitol-io/tsc/issues/93
 
